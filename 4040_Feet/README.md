@@ -1,13 +1,13 @@
 # 4040 FEET #
 These Z drive feet are designed for if you replaced the standard 2020 frame with 4040 & 4020 extrusions. I have not changed any position of the Z drive components. I just extended the outer walls of the printed pieces, so they sit flush with the wider extrusions. The screws used are the same as the original BOM.
 
-![Front.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Front.PNG?raw=true) ![Side.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Side.PNG?raw=true) ![Angel.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Angle.PNG?raw=true) ![Botton.png](https://github.com/Demitryk/Voron2.4-Mods/blob/76e0817b1d00461a4e790a3ae07dcb0281103996/4040_Feet/Images/Bottom.PNG?raw=true)
+![Front.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Front.PNG?raw=true) ![Side.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Side.PNG?raw=true) ![Angle.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Angle.PNG?raw=true) ![Botton.png](https://github.com/Demitryk/Voron2.4-Mods/blob/ef834d951e570760bf42da1152bfc9f0bf77794e/4040_Feet/Images/Bottom.PNG?raw=true)
 
 
 ### Attaching the Assembly ###
 I have added 2 extra screw holes to mount the Z assembly to the extra V-slot in the frame. Using all 4 holes is not necessary, I recommend just using one in each V-slot as show in the image.
 
-![Screws.png](https://github.com/Demitryk/Voron2.4-Mods/blob/3926e79b368c0d4e63c9c20024c074e70a8edd6b/4040_Feet/Images/Screws.PNG?raw=true)
+![Screws.png](https://github.com/Demitryk/Voron2.4-Mods/blob/59b604f059e8352e40b06340ed9b07c2e46870d7/4040_Feet/Images/Screws.PNG?raw=true)
 
 
 ### Wire Hole ###

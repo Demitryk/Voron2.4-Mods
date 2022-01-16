@@ -1,4 +1,4 @@
-# Skirt Button Mod #
+# Skirt Button Mod - For 350mm Version Only  #
 These are the front skirts that I modified to install buttons. In the left skirt, there are 3 x 19mm holes that allow the installation of switches. The right skirt contains 2 slots for micro-SD card extenders (for the Pi and control board) and 1 hole of and aviation style connector (16mm). I planned on using the aviation connector for the ADXL345 connection to the Pi. 
 
 

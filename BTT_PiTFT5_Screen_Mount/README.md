@@ -3,20 +3,20 @@ This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a beze
 
 *** What You Need ***  
 ----printed pieces  
-Bezel.stl  
-Back.stl  
-Frame Mount.stl  
+- Bezel.stl  
+- Back.stl  
+- Frame Mount.stl  
 
 ##### NOTE: I did not create the frame mount, this was designed by sttts. here is the link to the original Frame mount. https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl #####  
 
 ----Hardware  
-Big Tree Tech PiTFT5 v5 and the screws it came with  
-Longer 15 pin Display Cable  
-6 x M3 Threaded Inserts  
-2 x M3 Flat Head Countersunk Screws  
-4 x M3 6mm Socket Screws  
-3 x M3 10mm Socket Screws  
-3 x M3 Frame Nuts  
+- Big Tree Tech PiTFT5 v5 and the screws it came with  
+- Longer 15 pin Display Cable  
+- 6 x M3 Threaded Inserts  
+- 2 x M3 Flat Head Countersunk Screws  
+- 4 x M3 6mm Socket Screws  
+- 3 x M3 10mm Socket Screws  
+- 3 x M3 Frame Nuts  
 
 
 ![Actual.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Actual.jpg?raw=true) 

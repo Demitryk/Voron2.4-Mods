@@ -1,7 +1,7 @@
 # BTT PiTFT5 v2 Screen Mount  #
 This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a bezel to cover the edges of the screen. The bezel still allows access to the black light wheel and the inversion switch.
 
-*** What You Need ***  
+### What You Need ###  
 ----printed pieces  
 - Bezel.stl  
 - Back.stl  

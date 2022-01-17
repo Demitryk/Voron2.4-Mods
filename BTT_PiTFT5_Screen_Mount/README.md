@@ -2,10 +2,10 @@
 This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a bezel to cover the edges of the screen. The bezel still allows access to the black light wheel and the inversion switch.
 
 ***What You Need***
-----printed pieces
-Bezel.stl
-Back.stl
-Frame Mount.stl
+----printed pieces  
+Bezel.stl  
+Back.stl  
+Frame Mount.stl  
 
 ##### NOTE: I did not create the frame mount, this was designed by sttts. here is the link to the original Frame mount. https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl #####
 

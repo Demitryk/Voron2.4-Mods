@@ -7,7 +7,7 @@ Bezel.stl
 Back.stl
 Frame Mount.stl
 
-#####NOTE: I did not create the frame mount, this was designed by sttts. here is the link to the original Frame mount. https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl#####
+##### NOTE: I did not create the frame mount, this was designed by sttts. here is the link to the original Frame mount. https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl #####
 
 ----Hardware
 Big Tree Tech PiTFT5 v5 and the screws it came with

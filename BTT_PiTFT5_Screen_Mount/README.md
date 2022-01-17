@@ -33,12 +33,13 @@ ________________________________________________________________________________
 The six threaded m3 inserts are placed as shown. There is one more on the other side.  
 
 ![Threaded.png](https://github.com/Demitryk/Voron2.4-Mods/blob/313842ef886ef415c867bbdf9a58c542901d63db/BTT_PiTFT5_Screen_Mount/Images/Threded.PNG?raw=true)  
-
+    
+    
 --- Instructions  
-Install display cable to the screen  
-Use 4 of the screws that came with the screen to attach the screen to the back stl. The back light wheel and switch to be toward the bottom  
-route the cable behind the screen and though the opening in the back  
-Attach the back stl to the frame mount using the 4 M3 6mm screws  
-Attach the frame mount to the frame using the 3 M3 10mm screws and frame nuts  
-install the bezel over the screen and secure using the 2 M3 Flat Head Countersunk Screws  
+- Install display cable to the screen  
+- Use 4 of the screws that came with the screen to attach the screen to the back stl. The back light wheel and switch to be toward the bottom  
+- Route the cable behind the screen and though the opening in the back  
+- Attach the back stl to the frame mount using the 4 M3 6mm screws  
+- Attach the frame mount to the frame using the 3 M3 10mm screws and frame nuts  
+- Install the bezel over the screen and secure using the 2 M3 Flat Head Countersunk Screws  
 

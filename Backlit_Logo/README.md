@@ -12,7 +12,7 @@ Another option for the back deck artwork. This requires you to drill 6 holes in 
 - Logo Side x2 - Clear  
 - Outer Ring x1 - Clear  
   
-for clear printed pieces I used a honeycomb infill with 4 top layers to obtain that hexagon effect.    
+for clear printed pieces I used a honeycomb infill with 4 top layers to obtain that hexagon effect. i printed them top side down so they were smooth because when using so little infill the tops arent as pretty.    
   
   
 ---Hardware  
@@ -21,9 +21,9 @@ for clear printed pieces I used a honeycomb infill with 4 top layers to obtain t
 - Foam tape
 - COD LEDs   
   
-NOTE: LEDs strips cannot be more that 9mm tall or 2mm thick. I designed this to be used with COB LEDs. These give a continuous strip of light. They do come in 12V, 24V, and 5V addressable RGB. i used 6000K white.  
+NOTE: LEDs strips cannot be more that 9mm tall or 2mm thick. I designed this to be used with COB LEDs.  These give a continuous strip of light. They do come in 12V, 24V, and 5V addressable RGB. i used 6000K white.
 
-Here’s is a link to the ones i used:   
+Here’s is a link to the ones i used, they say they are 10 mm tall but were actually 8mm:   
 https://www.amazon.com/gp/product/B08M9MSH77/ref=ppx_yo_dt_b_asin_title_o04_s07?ie=UTF8&th=1
 
 

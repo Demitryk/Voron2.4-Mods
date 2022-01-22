@@ -1,7 +1,7 @@
 
 # Backlit Voron Logo #  
   
-***This logo is 12mm thick. will not fit in on a standard Voron back panel***  
+***This logo is 12mm thick. will not fit in on a standard framed Voron back panel***  
   
 Another option for the back deck artwork. This requires you to drill 6 holes in the back panel using the drill hole guide.
 

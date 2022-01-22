@@ -10,7 +10,8 @@ Another option for the back deck artwork. This requires you to drill 6 holes in 
 - Logo Frame x1 - Any Color  
 - Logo Middle x1 - Clear  
 - Logo Side x2 - Clear  
-- Outer Ring x1 - Clear 
+- Outer Ring x1 - Clear  
+  
 for clear printed pieces I used a honeycomb infill with 4 top layers to obtain that hexagon effect.    
   
   

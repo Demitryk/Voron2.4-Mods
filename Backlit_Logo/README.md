@@ -47,6 +47,6 @@ The 5 threaded m3 inserts are placed as shown. LEDs should be routed as shown in
 - Print pieces   
 - Install threaded inserts  
 - Install LEDs  
-- Center the drill hole guide on the back panel and drill the 6 holes. The bottom hole is to route the wire.  
+- Center the drill hole guide on the back panel and drill the 6 holes. The bottom hole is to route the wire though the back.  
 - Place foam tape on the back side of the outer ring and on the back side of the logo pieces. this will force them to be squished and keep pieces from rattling  
 - install the screws, they should go through the back panel into the Logo frame

@@ -12,7 +12,7 @@ Another option for the back deck artwork. This requires you to drill 6 holes in 
 - Logo Side x2 - Clear  
 - Outer Ring x1 - Clear  
   
-for clear printed pieces I used a honeycomb infill with 4 top layers to obtain that hexagon effect. i printed them top side down so they were smooth because when using so little infill the tops arent as pretty.    
+for clear printed pieces I used a honeycomb infill with 4 top layers to obtain that hexagon effect. i printed them top side down so they were smooth because when using so little infill the tops arent as pretty. I used sunlu clear petg.   
   
   
 ---Hardware  

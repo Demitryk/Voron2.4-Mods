@@ -21,9 +21,13 @@ This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a beze
 
 ![Actual.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Actual.jpg?raw=true) 
 ![Exploded.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Exploded.PNG?raw=true) 
-![Angle.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Angl.PNG?raw=true) 
+![Exploded2.png](https://github.com/Demitryk/Voron2.4-Mods/blob/f1ddd29dba33b6e4d048566f45f138851245dd2d/BTT_PiTFT5_Screen_Mount/Images/Explode2.PNG?raw=true)
+![Angle.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Angl.PNG?raw=true)
+![Angle2.png](https://github.com/Demitryk/Voron2.4-Mods/blob/f1ddd29dba33b6e4d048566f45f138851245dd2d/BTT_PiTFT5_Screen_Mount/Images/Angle2.PNG?raw=true) 
 ![Bottom.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Bottom.PNG?raw=true) 
 ![Side.png](https://github.com/Demitryk/Voron2.4-Mods/blob/704b049f63688529aa9f474ecdeccd3d49bdc9b4/BTT_PiTFT5_Screen_Mount/Images/Side.PNG?raw=true) 
+![Side2.png](https://github.com/Demitryk/Voron2.4-Mods/blob/f1ddd29dba33b6e4d048566f45f138851245dd2d/BTT_PiTFT5_Screen_Mount/Images/Side2.PNG?raw=true) 
+
 
 
 ___________________________________________________________________________________________________________________________________________

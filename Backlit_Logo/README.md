@@ -37,7 +37,7 @@ https://www.amazon.com/gp/product/B08M9MSH77/ref=ppx_yo_dt_b_asin_title_o04_s07?
 ___________________________________________________________________________________________________________________________________________
 ### Installation ###  
 
----Threaded Inserts and LEDs 
+---Threaded Inserts and LEDs  
 The 5 threaded m3 inserts are placed as shown. LEDs should be routed as shown in red. I would solder the wire to the LEDs before routing 
 
 ![Threaded.png](https://github.com/Demitryk/Voron2.4-Mods/blob/1a411d255176750a9e40885087c361b58f34b956/Backlit_Logo/Images/Install.PNG?raw=true)  

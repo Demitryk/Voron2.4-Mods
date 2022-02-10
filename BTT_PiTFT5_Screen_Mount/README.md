@@ -1,5 +1,5 @@
 # BTT PiTFT5 v2 Screen Mount  #
-This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a bezel to cover the edges of the screen. The bezel still allows access to the black light wheel and the inversion switch. You have two options in frmae mounts.
+This is a screen mount for the BTT PiTFT5 v2. It is a fixed angle and has a bezel to cover the edges of the screen. The bezel still allows access to the black light wheel and the inversion switch. You have two options in frame mounts.
 
 ### What You Need ###  
 ----printed pieces  
@@ -40,7 +40,7 @@ The six threaded m3 inserts are placed as shown. There is one more on the other 
     
     
 --- Instructions  
-- Install display cable to the screen  
+- Install display cable to the screen (may have to put a 90 bend in the cable end)
 - Use 4 of the screws that came with the screen to attach the screen to the back stl. The back light wheel and switch to be toward the bottom  
 - Route the cable behind the screen and though the opening in the back  
 - Attach the back stl to the frame mount using the 4 M3 6mm screws  

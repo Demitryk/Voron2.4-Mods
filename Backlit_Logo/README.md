@@ -19,7 +19,7 @@ for clear printed pieces I used a honeycomb infill with 4 top layers to obtain t
 - 5 x M3 Threaded Inserts   
 - 5 x M3 8mm Socket Screws  
 - Foam tape
-- COD LEDs   
+- COB LEDs   
   
 NOTE: LEDs strips cannot be more that 9mm tall or 2mm thick. I designed this to be used with COB LEDs.  These give a continuous strip of light. They do come in 12V, 24V, and 5V addressable RGB. i used 6000K white.
 

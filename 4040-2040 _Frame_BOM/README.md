@@ -5,7 +5,7 @@ This is the BOM i created if you want to use 4040 and 2040 extrusions for you fr
 Using this as your frame does not change any of the positions of the printer components. Below is the Misumi part numbers I used. 
 
 
-----Original BOM	                Qty	 
+----Original BOM 	                Qty  
 Misumi HFSB5-2020-340	            1  
 Misumi HFSB5-2020-530-LCP-RCP	    4  
 Misumi HFSB5-2020-470-TPW	        10 	   

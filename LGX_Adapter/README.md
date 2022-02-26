@@ -1,7 +1,7 @@
 # Stealth Burner LGX Mount #
 This is the LXG adapter for the stealth burner. It’s just one piece. It fits the profile of the stealth burner. The tolerances are tight. test fit the pfet tube before mounting. it may require a few scrapes using a m3 screw to get the PFET tube to fit. It requires 4 threaded inserts, two in the front and two in the rear. I designed it to fit the gantry mount with the two mgn9 rails.   
   
-I have included an Stelthburner LGX adaopter for the ERCF but i have NOT tested it yet. i just subtracted the same geometery as the one on the ERCF github
+I have included an Stelthburner LGX adapter for the ERCF but i have NOT tested it yet. i just subtracted the same geometery as the one on the ERCF github
   
   
 Included are also my cable chain mount and the connector housing for a 24 pin micro-fit V3 connector. these are not needed to use the adapter. the cable chain mount gets attached to the rear of the LGX motor. I only designed it for an Igus chain. the connector housing mounts to the cable chain mount via threaded inserts

@@ -11,5 +11,10 @@ Included are also my cable chain mount and the connector housing for a 24 pin mi
 ![Actual.png](https://github.com/Demitryk/Voron2.4-Mods/blob/ae4632752649ff4f34b406d0f318a48cb5d6c21b/LGX_Adapter/Images/Actual.jpg?raw=true) 
 ![Acutal2.png](https://github.com/Demitryk/Voron2.4-Mods/blob/ae4632752649ff4f34b406d0f318a48cb5d6c21b/LGX_Adapter/Images/Actual2.jpg?raw=true) 
 ![single.png](https://github.com/Demitryk/Voron2.4-Mods/blob/ae4632752649ff4f34b406d0f318a48cb5d6c21b/LGX_Adapter/Images/Single.PNG?raw=true)
+![ERCF.png](https://github.com/Demitryk/Voron2.4-Mods/blob/cfe75abc077fbe9fa009102e9f753b3212d2162f/LGX_Adapter/Images/ERCF.PNG?raw=true)
 ![cable.png](https://github.com/Demitryk/Voron2.4-Mods/blob/19c659afe1eb59d604643e4b44505c42862e0724/LGX_Adapter/Images/Cable.PNG?raw=true)
 ![FAngle.png](https://github.com/Demitryk/Voron2.4-Mods/blob/ae4632752649ff4f34b406d0f318a48cb5d6c21b/LGX_Adapter/Images/Front%20Angle.PNG?raw=true) 
+
+
+
+

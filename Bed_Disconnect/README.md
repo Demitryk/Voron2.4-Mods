@@ -2,7 +2,7 @@
 This is a quick bed disconnect. I used a GX20 Aviation 5 pin connector. These connectors are capable of 10A. I use a 750-watt bed in the US (750/120 VAC = 6.25), meaning it will draw around 6.25A. I used a 5 pin so all the connections required for the bed are in one connection: thermistor+, thermistor-, ground, neutral, and AC from the SSR. Using these connectors will require soldering. Use shrink tubbing as shown in the images to isolate wires.  
   
   
-Link to connectors i used  
+Link to connectors I used:  
 https://www.amazon.com/gp/product/B07ZWMV5BS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1  
   
   

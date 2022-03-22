@@ -48,6 +48,24 @@ Run the Kiauh script you used to install the Klipper and everything else.
 Select option 4 [Advanced]  
 Select option 9 [Shell Command]  
   
+## Setting Up the Macros ##  
+
+Run the Kiauh script you used to install the Klipper and everything else.  
+Select option 4 [Advanced]  
+Select option 9 [Shell Command]  
   
+This will install the shell command extension and place a new config file in the klipper_config directory named shell_command.cfg  
+
+Either copy and paste the contents from my shell_command.cfg or just use WinSCP to replace it. The entries look like the following. The cfg file I have provided has an entry for every sound in the Audio folder
+
+~~~
+[gcode_shell_command sound_Homing]  ##name of the command  
+command: /usr/bin/mpg123 /home/pi/Audio/Homing.mp3  ## command to execute  
+timeout: 5.  
+verbose: True  
+#    RUN_SHELL_COMMAND CMD=sound_Homing  ## this is the line you place in your macro  
+  
+~~~  
+
 
 

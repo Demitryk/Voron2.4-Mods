@@ -42,11 +42,6 @@ You should hear this file play. If nothing is heard check:
 -	adjust the volume knob if it has one  
 -	run the “alsamixer” command on the pi console and adjust the volume  
   
-    
-
-Run the Kiauh script you used to install the Klipper and everything else.  
-Select option 4 [Advanced]  
-Select option 9 [Shell Command]  
   
 ## Setting Up the Macros ##  
 

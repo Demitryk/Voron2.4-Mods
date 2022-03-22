@@ -37,7 +37,7 @@ Test to make sure everything works by playing a file
 
 ~~~  
   
-You should hear this file play. If nothing is heard check:  
+You should hear this file play. If nothing is heard, check:  
 -	your amp board and speakers are wired correctly and on  
 -	adjust the volume knob if it has one  
 -	run the “alsamixer” command on the pi console and adjust the volume  

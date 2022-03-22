@@ -66,6 +66,36 @@ verbose: True
 #    RUN_SHELL_COMMAND CMD=sound_Homing  ## this is the line you place in your macro  
   
 ~~~  
+  
+  
+ To modify your Macros to play the sound just add the RUN_SHELL_COMMAND CMD=sound_[name of sound]  
+ 
+ Here is how my G34 Macro looks:  
+   
+ ~~~
+#####################################################################  
+#   Macros  
+#####################################################################  
+  
+[gcode_macro G32]  
+gcode:  
+    RUN_SHELL_COMMAND CMD=sound_Homing  
+    G28  
+    RUN_SHELL_COMMAND CMD=sound_Gantry_aligning  
+    QUAD_GANTRY_LEVEL  
+    RUN_SHELL_COMMAND CMD=sound_Gantry_aligned_rehoming  
+    G28  
+    RUN_SHELL_COMMAND CMD=sound_Leveling_Bed  
+    BED_MESH_CLEAR  
+    BED_MESH_CALIBRATE  
+    RUN_SHELL_COMMAND CMD=sound_Bed_leveled_mesh_created  
+  
+    ##  Uncomment for 350mm build  
+    G0 X175 Y175 Z30 F3600  
+    #--------------------------------------------------------------------  
 
-
+~~~
+  
+ 
+ 
 

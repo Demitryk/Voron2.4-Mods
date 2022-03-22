@@ -1,5 +1,5 @@
 ### Talking Voron ###  
-This is a procedure to have audio files to play throughout your macros.
+This is a procedure to have audio files to play throughout your macros. Gives the apperance of a talking Voron  
 Here is an example: https://www.facebook.com/reel/393798032097072  
   
 ## Required Hardware ##

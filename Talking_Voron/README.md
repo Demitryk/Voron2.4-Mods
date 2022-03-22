@@ -65,7 +65,7 @@ verbose: True
   
  To modify your Macros to play the sound just add the RUN_SHELL_COMMAND CMD=sound_[name of sound]  
  
- Here is how my G34 Macro looks:  
+ Here is how my G33 Macro looks:  
    
  ~~~
 #####################################################################  

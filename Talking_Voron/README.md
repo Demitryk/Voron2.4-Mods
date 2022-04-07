@@ -1,6 +1,6 @@
 ### Talking Voron ###  
 This is a procedure to have audio files to play throughout your macros. Gives the apperance of a talking Voron  
-Here is an example: https://www.facebook.com/reel/393798032097072  
+Here is an example:   https://www.facebook.com/groups/voroncorexy/permalink/1381069215654974/
   
 ## Required Hardware ##
 You need something to output sound. I bought a cheap speaker kit for an Arduino (linked below). This is just a small amp board with 2 3-watt speakers, but you can use whatever you choose.  I have the speakers mounted behind the skirt. The board is wired to the same 5V power supply as the Pi and the 3.5mm plug is plugged in to the audio jack of the pi. 

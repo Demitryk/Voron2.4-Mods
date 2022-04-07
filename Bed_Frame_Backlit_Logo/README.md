@@ -16,6 +16,7 @@ Another Backlit detail for the Voron. This will fit as shown if your bed support
 ---Hardware  
 - 2 x M3 Threaded Inserts   
 - 2 x M3 8mm Socket Screws  
+- 2 x M5 8mm Screws
 - COB LEDs  
 - Super Glue 
   
@@ -34,9 +35,9 @@ ________________________________________________________________________________
 ### Installation ###  
 
 ---Threaded Inserts and LEDs  
-The 5 threaded m3 inserts are placed in the holes in the main body. LEDs should be routed as shown in red. I would solder the wire to the LEDs before routing
+The 2 threaded m3 inserts are placed in the holes in the main body. LEDs should be routed as shown in red. I would solder the wire to the LEDs before routing
 
-![Threaded.png](https://github.com/Demitryk/Voron2.4-Mods/blob/b716d91e5bcfeaeb5fd862961c20eeda7a3b2353/Bed_Frame_Backlit_Logo/Images/LED.PNG?raw=true)  
+![Threaded.png](https://github.com/Demitryk/Voron2.4-Mods/blob/59763850bf3808abb3dda86c587c4215e83befa6/Bed_Frame_Backlit_Logo/Images/LED.PNG?raw=true)  
     
     
 --- Instructions  
@@ -44,5 +45,6 @@ The 5 threaded m3 inserts are placed in the holes in the main body. LEDs should 
 - Install threaded inserts  
 - Install LEDs routing the wire trough the hole  
 - Put everything together and install screws
-- Glue and center the O and R Centers inplace 
-- Wire to power source
+- Glue and center the O and R Centers inplace  
+- Install on the frame ends  
+- Wire to power source  
